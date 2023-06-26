@@ -12,7 +12,8 @@ requirements.
 cd demo-gallery-flutter/
 flutter pub get
 flutter run  and once finished 
-import the images from modified assets into the folder demo-gallery-flutter/build/flutter_assets/packages/flutter_gallery_assets/assets/studies/
+import the images from add-these-assets
+into the folder demo-gallery-flutter/build/flutter_assets/packages/flutter_gallery_assets/assets/studies/
 close and flutter run again
 ```
 
