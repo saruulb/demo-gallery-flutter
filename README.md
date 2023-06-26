@@ -1,36 +1,6 @@
-# Flutter Gallery
-
-Flutter Gallery is a resource to help developers evaluate and use Flutter.
-It is a collection of Material Design & Cupertino widgets, behaviors, and vignettes
-implemented with Flutter. We often get asked how one can see Flutter in action,
-and this gallery demonstrates what Flutter provides and how it behaves in the
-wild.
-
-![Flutter Gallery](https://user-images.githubusercontent.com/6655696/73928238-0d7fcc80-48d3-11ea-8a7e-ea7dc5d6e713.png)
-
-## Features
-
-- Showcase for `material`, `cupertino`, and other widgets
-- [Adaptive layout](lib/layout/adaptive.dart) for mobile and desktop
-- State restoration support
-- Settings to text scaling, text direction, locale, theme, and more...
-- Demo for `animations`
-- Foldable support and demo for `dual_screen`
-- Deferred loading
-- CI/CD
-- ...and much more!
+# Flutter Demo
 
 ## Supported Platforms
-
-Flutter Gallery has been built to support multiple platforms.
-These include:
-
-- Android ([Google Play Store](https://play.google.com/store/apps/details?id=io.flutter.demo.gallery), [.apk][latest release])
-- iOS (locally)
-- web ([gallery.flutter.dev](https://gallery.flutter.dev/))
-- macOS ([.zip][latest release])
-- Linux ([.tar.gz][latest release])
-- Windows ([.zip][latest release], [.msix](https://www.microsoft.com/store/productId/9PDWCTDFC7QQ))
 
 ## Running
 
